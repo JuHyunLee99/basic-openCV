@@ -396,3 +396,7 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+# openCVSharpExtern.dll 파일 무시
+openCVSharpExtern.dll
+
