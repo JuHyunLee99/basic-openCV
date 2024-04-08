@@ -15,7 +15,7 @@ if img is None:
 cv2.imwrite('./ch01/cat_gray.png', img)
 
 #cv2.namedWindow('image')    # 생략가능. imshow바로 됨.
-# 창 속성 지정 플래그
+# 창 속성 지정 플래그F
 #cv2.WINDOW_NORMAL
 #cv2.WINDOW_AUTOSIZE(기본값) : 사진의 크기에 맞게 창의 크기를 생성
 

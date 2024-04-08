@@ -12,12 +12,12 @@ namespace cv06_mat
     {
         static void Main(string[] args)
         {
-            // Mat
+            // Mat 클래스
             Mat M = new Mat();
             M.Create(MatType.CV_8UC3, new int[] {488, 640});
             M.Create(new Size(488, 640), MatType.CV_8UC3);
             M.Create(488, 640, MatType.CV_8UC3);
-            M.SetTo(new Scalar(255,0,0));
+            M.SetTo(new Scalar(255,0,0));   // 행렬값 할당   // 첫번째 채널 255, 두번째 채널 0, 세번째 채널 0
 
             // 열거자를 이용한 생성자 호출
             IList<int> sizes = new List<int>() { 480, 640 };
