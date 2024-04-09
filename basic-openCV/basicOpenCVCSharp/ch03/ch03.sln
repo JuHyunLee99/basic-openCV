@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv07_sparseMatrix", "cv07_s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv08_ROI", "cv08_ROI\cv08_ROI.csproj", "{E5D34E25-2536-4E3E-BA36-793DE67F441D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv09_COI", "cv09_COI\cv09_COI.csproj", "{7D8FB711-461A-4D36-B00B-4140355AA2AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{E5D34E25-2536-4E3E-BA36-793DE67F441D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5D34E25-2536-4E3E-BA36-793DE67F441D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5D34E25-2536-4E3E-BA36-793DE67F441D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D8FB711-461A-4D36-B00B-4140355AA2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D8FB711-461A-4D36-B00B-4140355AA2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D8FB711-461A-4D36-B00B-4140355AA2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D8FB711-461A-4D36-B00B-4140355AA2AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
