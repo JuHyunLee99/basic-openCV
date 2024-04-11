@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv10_ImRead", "cv10_ImRead\cv10_ImRead.csproj", "{C9D79100-145B-4FF2-BF6F-D02D16D08B74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv11_ImShow", "cv11_ImShow\cv11_ImShow.csproj", "{73F56925-2623-40E9-86E4-701F9ACA4F13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv12_MouseCallback", "cv12_MouseCallback\cv12_MouseCallback.csproj", "{FE73AA83-1309-4E31-B134-DE716580873F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv13_capture", "cv13_capture\cv13_capture.csproj", "{DC420D48-232B-475F-9CC4-246F311DC7CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv14_camera", "cv14_camera\cv14_camera.csproj", "{B932E3D3-CB7A-461E-A0CF-864FAADE07D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv15_concat", "cv15_concat\cv15_concat.csproj", "{B429322E-37EC-43A9-BB30-C3D839CD0F49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv16_draw", "cv16_draw\cv16_draw.csproj", "{D1C11D6E-50CF-49C5-9D8E-34E8F9D3110B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9D79100-145B-4FF2-BF6F-D02D16D08B74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C9D79100-145B-4FF2-BF6F-D02D16D08B74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C9D79100-145B-4FF2-BF6F-D02D16D08B74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C9D79100-145B-4FF2-BF6F-D02D16D08B74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F56925-2623-40E9-86E4-701F9ACA4F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F56925-2623-40E9-86E4-701F9ACA4F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F56925-2623-40E9-86E4-701F9ACA4F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F56925-2623-40E9-86E4-701F9ACA4F13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE73AA83-1309-4E31-B134-DE716580873F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE73AA83-1309-4E31-B134-DE716580873F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE73AA83-1309-4E31-B134-DE716580873F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE73AA83-1309-4E31-B134-DE716580873F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC420D48-232B-475F-9CC4-246F311DC7CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC420D48-232B-475F-9CC4-246F311DC7CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC420D48-232B-475F-9CC4-246F311DC7CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC420D48-232B-475F-9CC4-246F311DC7CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B932E3D3-CB7A-461E-A0CF-864FAADE07D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B932E3D3-CB7A-461E-A0CF-864FAADE07D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B932E3D3-CB7A-461E-A0CF-864FAADE07D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B932E3D3-CB7A-461E-A0CF-864FAADE07D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B429322E-37EC-43A9-BB30-C3D839CD0F49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B429322E-37EC-43A9-BB30-C3D839CD0F49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B429322E-37EC-43A9-BB30-C3D839CD0F49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B429322E-37EC-43A9-BB30-C3D839CD0F49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1C11D6E-50CF-49C5-9D8E-34E8F9D3110B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1C11D6E-50CF-49C5-9D8E-34E8F9D3110B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1C11D6E-50CF-49C5-9D8E-34E8F9D3110B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1C11D6E-50CF-49C5-9D8E-34E8F9D3110B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78EA8483-5BF8-465E-8C85-00654EE74D79}
+	EndGlobalSection
+EndGlobal
