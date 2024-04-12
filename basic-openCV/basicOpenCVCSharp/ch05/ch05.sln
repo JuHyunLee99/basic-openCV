@@ -3,7 +3,37 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv21_CvtColor", "cv21_CvtColor\cv21_CvtColor.csproj", "{A18322DE-ECA7-4FF7-BF96-EDEACC68E52B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv22_Hue", "cv22_Hue\cv22_Hue.csproj", "{3973FCEB-30D9-4099-A1D2-545DB448666F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv23_colorDetection", "cv23_colorDetection\cv23_colorDetection.csproj", "{4776B184-9DBB-44DC-977D-348E11FBFDD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv24_threshold", "cv24_threshold\cv24_threshold.csproj", "{8328C2FB-7257-46DB-A908-5E9058781DD6}"
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18322DE-ECA7-4FF7-BF96-EDEACC68E52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18322DE-ECA7-4FF7-BF96-EDEACC68E52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18322DE-ECA7-4FF7-BF96-EDEACC68E52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18322DE-ECA7-4FF7-BF96-EDEACC68E52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3973FCEB-30D9-4099-A1D2-545DB448666F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3973FCEB-30D9-4099-A1D2-545DB448666F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3973FCEB-30D9-4099-A1D2-545DB448666F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3973FCEB-30D9-4099-A1D2-545DB448666F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4776B184-9DBB-44DC-977D-348E11FBFDD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4776B184-9DBB-44DC-977D-348E11FBFDD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4776B184-9DBB-44DC-977D-348E11FBFDD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4776B184-9DBB-44DC-977D-348E11FBFDD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8328C2FB-7257-46DB-A908-5E9058781DD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8328C2FB-7257-46DB-A908-5E9058781DD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8328C2FB-7257-46DB-A908-5E9058781DD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8328C2FB-7257-46DB-A908-5E9058781DD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
