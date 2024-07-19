@@ -5,10 +5,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{06C6EC1D-7C4F-435A-9372-34C5D10BB704}</ProjectGuid>
+    <ProjectGuid>{325E3EC9-8BC1-4EF2-A026-B476DB9CED3A}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>cv28_PyramidUp</RootNamespace>
-    <AssemblyName>cv28_PyramidUp</AssemblyName>
+    <RootNamespace>cv32_Dilate</RootNamespace>
+    <AssemblyName>cv32_Dilate</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

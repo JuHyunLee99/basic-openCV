@@ -5,6 +5,16 @@ VisualStudioVersion = 17.9.34723.18
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv28_PyramidUp", "cv28_PyramidUp\cv28_PyramidUp.csproj", "{06C6EC1D-7C4F-435A-9372-34C5D10BB704}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv29_Resize", "cv29_Resize\cv29_Resize.csproj", "{62D78F63-A343-4F21-9DDC-4F1355FA5CE4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv30_GetRotationMatrix2D", "cv30_GetRotationMatrix2D\cv30_GetRotationMatrix2D.csproj", "{4DDD08FC-6F1F-4390-8BF6-4006C20BF4F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv31_GetPerspectiveTransform", "cv31_GetPerspectiveTransform\cv31_GetPerspectiveTransform.csproj", "{298E8C5C-5CE2-426C-A025-D82AF45D240E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv32_Dilate", "cv32_Dilate\cv32_Dilate.csproj", "{325E3EC9-8BC1-4EF2-A026-B476DB9CED3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cv33_MorphologyEx", "cv33_MorphologyEx\cv33_MorphologyEx.csproj", "{9864BC2A-F90D-4FBF-8566-B5F7B51381CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +25,26 @@ Global
 		{06C6EC1D-7C4F-435A-9372-34C5D10BB704}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06C6EC1D-7C4F-435A-9372-34C5D10BB704}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06C6EC1D-7C4F-435A-9372-34C5D10BB704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D78F63-A343-4F21-9DDC-4F1355FA5CE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D78F63-A343-4F21-9DDC-4F1355FA5CE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D78F63-A343-4F21-9DDC-4F1355FA5CE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D78F63-A343-4F21-9DDC-4F1355FA5CE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DDD08FC-6F1F-4390-8BF6-4006C20BF4F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DDD08FC-6F1F-4390-8BF6-4006C20BF4F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DDD08FC-6F1F-4390-8BF6-4006C20BF4F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DDD08FC-6F1F-4390-8BF6-4006C20BF4F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{298E8C5C-5CE2-426C-A025-D82AF45D240E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{298E8C5C-5CE2-426C-A025-D82AF45D240E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{298E8C5C-5CE2-426C-A025-D82AF45D240E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{298E8C5C-5CE2-426C-A025-D82AF45D240E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325E3EC9-8BC1-4EF2-A026-B476DB9CED3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325E3EC9-8BC1-4EF2-A026-B476DB9CED3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325E3EC9-8BC1-4EF2-A026-B476DB9CED3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325E3EC9-8BC1-4EF2-A026-B476DB9CED3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9864BC2A-F90D-4FBF-8566-B5F7B51381CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9864BC2A-F90D-4FBF-8566-B5F7B51381CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9864BC2A-F90D-4FBF-8566-B5F7B51381CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9864BC2A-F90D-4FBF-8566-B5F7B51381CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

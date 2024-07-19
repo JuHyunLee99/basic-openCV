@@ -5,10 +5,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{06C6EC1D-7C4F-435A-9372-34C5D10BB704}</ProjectGuid>
+    <ProjectGuid>{4DDD08FC-6F1F-4390-8BF6-4006C20BF4F2}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>cv28_PyramidUp</RootNamespace>
-    <AssemblyName>cv28_PyramidUp</AssemblyName>
+    <RootNamespace>cv30_GetRotationMatrix2D</RootNamespace>
+    <AssemblyName>cv30_GetRotationMatrix2D</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
